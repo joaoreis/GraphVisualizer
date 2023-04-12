@@ -1,0 +1,3 @@
+D:\repos\GraphVisual\obj\Debug\GraphVisual.njsproj.AssemblyReference.cache
+D:\repos\GraphVisual\obj\Debug\GraphVisual.njsproj.CoreCompileInputs.cache
+D:\repos\GraphVisual\bin\Microsoft.NodejsTools.WebRole.dll
